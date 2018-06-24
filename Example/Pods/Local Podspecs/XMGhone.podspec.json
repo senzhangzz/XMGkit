@@ -1,0 +1,22 @@
+{
+  "name": "XMGhone",
+  "version": "0.1.0",
+  "summary": "A short description of XMGhone.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/senzhangzz/XMGhone",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "senzhangzz": "864486270@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/senzhangzz/XMGhone.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XMGhone/Classes/**/*"
+}
